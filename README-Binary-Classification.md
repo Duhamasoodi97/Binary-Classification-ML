@@ -1,0 +1,120 @@
+# 🧠 Binary Classification ML
+
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Binary%20Classification-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+A machine learning project demonstrating a complete workflow for solving **binary classification problems** using Python and Jupyter Notebook.
+
+---
+
+## 📌 Overview
+
+This repository contains a Jupyter Notebook (`binary_classification.ipynb`) that walks through the full pipeline of building a binary classification model — from data preprocessing to evaluation.
+
+Binary classification is used when the target variable has two possible outcomes (e.g., **0/1, Yes/No, True/False**).
+
+---
+
+## 📂 Project Structure
+
+```
+Binary-Classification-ML/
+│
+├── binary_classification.ipynb   # Main notebook
+└── README.md                     # Documentation
+```
+
+---
+
+## ⚙️ Features
+
+* Data preprocessing and cleaning
+* Exploratory Data Analysis (EDA)
+* Feature engineering
+* Model training
+* Performance evaluation
+
+### 📊 Metrics Used
+
+* Accuracy
+* Precision
+* Recall
+* F1-score
+* Confusion Matrix
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+* Python 3.7+
+* Jupyter Notebook / JupyterLab
+
+### 📦 Installation
+
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn
+```
+
+---
+
+### ▶️ Run the Project
+
+```bash
+git clone https://github.com/Duhamasoodi97/Binary-Classification-ML.git
+cd Binary-Classification-ML
+jupyter notebook binary_classification.ipynb
+```
+
+---
+
+## 🧠 Workflow
+
+```
+1. Import Libraries
+2. Load Dataset
+3. Data Cleaning
+4. Exploratory Data Analysis
+5. Feature Engineering
+6. Train-Test Split
+7. Model Training
+8. Model Evaluation
+9. Results Interpretation
+```
+
+---
+
+## 📈 Future Improvements
+
+* Hyperparameter tuning
+* Try advanced models (SVM, XGBoost)
+* Handle class imbalance
+* Add cross-validation
+* Deploy as a web app
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Open a Pull Request
+
+---
+
+## 📄 License
+
+MIT License
+
+---
+
+## 👤 Author
+
+**Duhamasoodi97**
+
+---
+
+⭐ If you found this useful, consider giving it a star!
